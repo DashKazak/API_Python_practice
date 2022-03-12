@@ -1,0 +1,25 @@
+2022-03-12 15:42:15,940 - root - DEBUG - The user did not enter city
+2022-03-12 15:42:30,688 - root - DEBUG - The user did not enter city
+2022-03-12 15:42:33,376 - root - DEBUG - The user did not enter 2-letter country code
+2022-03-12 15:42:33,434 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2022-03-12 15:42:33,731 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=Moscow%2CRU&units=metric&appid=1455b205f79f8a146072fa46f2ef81ca HTTP/1.1" 200 15899
+2022-03-12 15:43:47,782 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2022-03-12 15:43:47,897 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=Moscow%2CRU&units=metric&appid=1455b205f79f8a146072fa46f2ef81ca HTTP/1.1" 200 15899
+2022-03-12 15:44:49,142 - root - DEBUG - The user did not enter city
+2022-03-12 15:44:51,904 - root - DEBUG - The user did not enter 2-letter country code
+2022-03-12 15:44:53,544 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2022-03-12 15:44:53,650 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=Moscow%2CRU&units=metric&appid=1455b205f79f8a146072fa46f2ef81ca HTTP/1.1" 200 15899
+2022-03-12 15:53:22,964 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2022-03-12 15:53:23,086 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=Moscow%2CRU&units=metric&appid=1455b205f79f8a146072fa46f2ef81ca HTTP/1.1" 200 15899
+2022-03-12 15:54:05,752 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2022-03-12 15:54:05,893 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=Moscow%2CRU&units=metric&appid=1455b205f79f8a146072fa46f2ef81ca HTTP/1.1" 200 15899
+2022-03-12 15:54:47,679 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2022-03-12 15:54:47,785 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=Moscow%2CRU&units=metric&appid=1455b205f79f8a146072fa46f2ef81ca HTTP/1.1" 200 15899
+2022-03-12 15:58:56,024 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2022-03-12 15:58:56,128 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=Minneapolis%2CUS&units=metric&appid=1455b205f79f8a146072fa46f2ef81ca HTTP/1.1" 200 15960
+2022-03-12 16:00:09,564 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2022-03-12 16:00:09,695 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=Minneapolis%2CUS&units=metric&appid=1455b205f79f8a146072fa46f2ef81ca HTTP/1.1" 200 15960
+2022-03-12 16:00:41,277 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2022-03-12 16:00:42,326 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=Tokyo%2CJP&units=metric&appid=1455b205f79f8a146072fa46f2ef81ca HTTP/1.1" 200 16014
+2022-03-12 16:02:23,705 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2022-03-12 16:02:23,846 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=Tokyo%2CJP&units=metric&appid=1455b205f79f8a146072fa46f2ef81ca HTTP/1.1" 200 16014
